@@ -1,0 +1,3 @@
+welcome.message: CurrencyConverter
+
+spring.thymeleaf.cache=false

@@ -1,0 +1,5 @@
+ackage com.currencyConverter.spring;
+
+public class WelcomeController {
+
+}
